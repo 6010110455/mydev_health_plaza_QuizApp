@@ -52,7 +52,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 1. Clone the repository: 
 ```bash 
-git clone https://github.com/6010110455/mydev_health_plaza_QuizApp
+git clone https://github.com/6010110455/mydev_health_plaza_QuizApp.git
 ```
 2. Install dependencies: 
 ```bash
