@@ -55,7 +55,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 git clone https://github.com/6010110455/mydev_health_plaza_QuizApp
 ```
 2. Install dependencies: 
-```bash 
+```bash
+cd mydev_health_plaza_QuizApp
 npm install
 ```
 3. Run the app:
