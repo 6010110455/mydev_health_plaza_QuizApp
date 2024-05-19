@@ -1,4 +1,4 @@
 module.exports = {
-  root: true,
+  root: {'no-unused-vars': 'off',},
   extends: '@react-native',
 };
