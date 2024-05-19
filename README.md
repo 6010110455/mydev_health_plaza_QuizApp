@@ -17,12 +17,16 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ## Screens
 
 ### Home Screen
+![Home Screenshot](screenshot1.png)
+
 
 - Display two buttons: **Start Quiz** and **Leaderboard**.
 - **Start Quiz** button navigates the user to the quiz screen.
 - **Leaderboard** button navigates the user to the leaderboard screen.
 
 ### Quiz Screen
+![Quiz Screenshot](screenshot2.png)
+
 
 - Display 20 random questions with 4 answer choices each.
 - Allow the user to select one answer for each question.
@@ -31,6 +35,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 - Provide a button to navigate to the leaderboard screen.
 
 ### Leaderboard Screen
+![Leaderboard Screenshot](screenshot3.png)
+
 
 - Display the user's final score obtained from the quiz.
 - If the score is not available (e.g., user navigated directly to the leaderboard screen without completing the quiz), display an alert message and navigate back to the home screen.
@@ -40,6 +46,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 - React Native
 - TypeScript
 - React Navigation
+- LD Player 9
 
 ## Installation
 
